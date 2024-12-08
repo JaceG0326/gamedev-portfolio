@@ -4,17 +4,19 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>John Matrix</strong>, a former Delta Force operative, now a hobbyist lumberjack.<br/>
-        I spend my days living alone with my daughter Jenny, and cutting trees and carrying trunks around to keep in shape.
+        Hi! I'm <strong>Jace Glover</strong>, a recent NCSU graduate, and aspiring game developer!<br/>
+        I have a genuine passion for both <strong>gaming</strong> and <strong>coding</strong> and hope to showcase this passion professionally.
       </div>
 
-      <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
+      <div style="margin-top: 20px;">During my time in college, I worked on numerous <router-link to="/game-projects">projects</router-link>, but I also recently participated in a game jam which can you see here: <router-link to="/other-projects">game projects</router-link>.<br/>
+      My <router-link to="/resume">resume</router-link> which dives deeper into the experience and skills I've gained so far.</div>
 
-      <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong> as a monk, like my good friend John Rambo did a few years back. You can reach me at <a href="mailto:johnmatrix@deltaforce.us">johnmatrix@deltaforce.us</a> or <router-link to="/contact">through here</router-link>.</div>
+      <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong> in the games industry. However, I am also very open to work in any programming related fields.<br/>
+      You can reach me at <a href="mailto:mrglover0326@gmail.com">mrglover0326@gmail.com</a> or <router-link to="/contact">through here</router-link>.</div>
     </div>
 
     <div class="photo">
-      <img src="img/avatar.png" alt="Avatar of John" /> 
+      <img src="img/avatar.png" alt="Avatar of Jace" /> 
     </div>
 
     <div style="clear:both"></div>

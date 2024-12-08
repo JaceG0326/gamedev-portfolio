@@ -3,7 +3,7 @@
     <h1>Resume</h1>
 
     <div class="paragraph">
-      I'm <strong>John Matrix</strong>, a former Delta Force operative with lots of experience, lots of training and huge muscles.
+      I'm <strong>Jace Glover</strong>, a former Delta Force operative with lots of experience, lots of training and huge muscles.
       <br />After graduating from kindergarten, I've been enrolled in the army for 25 years, where I learned to destroy things in an amazing number of ways.
       <br />I joined the Delta Force because I thought it was Greek lessons, but I quickly adapted to this unexpected environment and became a key element.
       <br />I love teamwork, but I can also go in solo depending on the mission requirements.
@@ -60,6 +60,14 @@
         <SkillRate name="Missile launchers" :rate="5" />
         <SkillRate name="Knives" :rate="5" />
         <SkillRate name="Hand to hand combat" :rate="5" />
+      </div>
+
+      <div class="skill-set">
+        <h3>Languages</h3>
+        <div class="skill">C</div>
+        <div class="skill">C#</div>
+        <div class="skill">C++</div>
+        <div class="skill">Java</div>
       </div>
 
       <div class="skill-set">
