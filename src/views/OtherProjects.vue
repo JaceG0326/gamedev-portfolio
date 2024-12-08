@@ -3,7 +3,7 @@
     <h1>Other stuff</h1>
 
     <div style="margin-bottom: 30px;">
-      And here are some other coding projects I've made or heavily contributed to. These are from my time at NC State.
+      And here are some other coding projects I've made or heavily contributed to. At the moment, all of these are from my time at NC State.
     </div>
     <ProjectsList v-bind:projects="projects" />
   </div>
